@@ -1,0 +1,257 @@
+
+___________________________ MENU _________________________
+1. Add Movie:
+2. Add User:
+3. Add Review
+4. Top Movies List (Various categories)
+5. Yearwise Movie Rating
+6. Movie Rating
+7. Admin Mode(Restricted)
+
+Enter your choice: 1
+
+Enter name of the movie: Sad
+Enter release year: 2021
+Enter no of movie genres: 2
+Enter genres: Drama Comedy 
+Sad added to movies list
+
+Continue y/n? y
+Skipping Menu
+Enter your choice: 1
+
+Enter name of the movie: Mad
+Enter release year: 2020
+Enter no of movie genres: 2
+Enter genres: Drama Thriller 
+Mad added to movies list
+
+Continue y/n? y
+Skipping Menu
+Enter your choice: 1
+
+Enter name of the movie: Bad
+Enter release year: 2019
+Enter no of movie genres: 2
+Enter genres: Thriller Horror 
+Bad added to movies list
+
+Continue y/n? y
+Skipping Menu
+Enter your choice: 1
+
+Enter name of the movie: Glad
+Enter release year: 2019
+Enter no of movie genres: 3
+Enter genres: Drama Action Horror 
+Glad added to movies list
+
+Continue y/n? y
+Skipping Menu
+Enter your choice: 1
+
+Enter name of the movie: Brad
+Enter release year: 2021
+Enter no of movie genres: 3
+Enter genres: Thriller Action Comedy 
+Brad added to movies list
+
+Continue y/n? y
+Skipping Menu
+Enter your choice: 2
+
+Enter name of user: Sri
+Sri added to users list
+
+Continue y/n? y
+Skipping Menu
+Enter your choice: 2
+
+Enter name of user: Srii
+Srii added to users list
+
+Continue y/n? y
+Skipping Menu
+Enter your choice: 2
+
+Enter name of user: Ravi
+Ravi added to users list
+
+Continue y/n? y
+Skipping Menu
+Enter your choice: 2
+
+Enter name of user: Shankar
+Shankar added to users list
+
+Continue y/n? y
+Skipping Menu
+Enter your choice: 3
+
+Enter user name: Sri
+Enter movie name: Sad
+Enter rating out of 10: 8
+
+Review added
+
+Continue y/n? y
+Skipping Menu
+Enter your choice: 3
+
+Enter user name: Shankar
+Enter movie name: Sad
+Enter rating out of 10: 7
+
+Review added
+
+Continue y/n? y
+Skipping Menu
+Enter your choice: 3
+
+Enter user name: Sri
+Enter movie name: Bad
+Enter rating out of 10: 8
+
+Review added
+
+Continue y/n? y
+Skipping Menu
+Enter your choice: 3
+
+Enter user name: Ravi
+Enter movie name: Bad
+Enter rating out of 10: 4
+
+Review added
+
+Continue y/n? y
+Skipping Menu
+Enter your choice: 3
+
+Enter user name: Sri
+Enter movie name: Mad
+Enter rating out of 10: 5
+Congratulations Sri, you have now become a critic.
+
+Review added
+
+Continue y/n? y
+Skipping Menu
+Enter your choice: 3
+
+Enter user name: Ravi
+Enter movie name: Bad
+Enter rating out of 10: 6
+The user has already submitted a review for this movie. Please try again.
+
+Continue y/n? y
+Skipping Menu
+Enter your choice: 3
+
+Enter user name: Srii
+Enter movie name: Sad
+Enter rating out of 10: 9
+
+Review added
+
+Continue y/n? y
+Skipping Menu
+Enter your choice: 3
+
+Enter user name: Sri
+Enter movie name: Glad
+Enter rating out of 10: 7
+
+Review added
+
+Continue y/n? y
+Skipping Menu
+Enter your choice: 4
+
+
+______________Leaderboard Menu______________ 
+
+1. Top Critically Acclaimed Movies:
+2. Top Movies of all Time:
+Enter your choice: 1
+
+Top critically acclaimed movies are:
+Glad	7
+Bad	0
+Brad	0
+Mad	0
+Sad	0
+
+
+Continue y/n? y
+Skipping Menu
+Enter your choice: 4
+
+
+______________Leaderboard Menu______________ 
+
+1. Top Critically Acclaimed Movies:
+2. Top Movies of all Time:
+Enter your choice: 2
+
+Top movies of all time are:
+Glad	14
+Sad	8
+Bad	6
+Mad	5
+Brad	0
+
+
+Continue y/n? y
+Skipping Menu
+Enter your choice: 4
+
+
+______________Leaderboard Menu______________ 
+
+1. Top Critically Acclaimed Movies:
+2. Top Movies of all Time:
+Enter your choice: 3
+Invalid option: Going back to previous menu
+
+Continue y/n? y
+Skipping Menu
+Enter your choice: 5
+
+Enter year to be reviewed: 2019
+Critical rating of the year is: 
+2019 : 7
+Overall rating of the year is: 
+2019 : 6
+
+Continue y/n? y
+Skipping Menu
+Enter your choice: 5
+
+Enter year to be reviewed: 2021
+Critical rating of the year is: 
+2021 : 0
+Overall rating of the year is: 
+2021 : 2
+
+Continue y/n? y
+Skipping Menu
+Enter your choice: 6
+
+Enter name of movie: Bad
+Critical rating of the movie is: 
+Bad : 0
+Overall rating of the movie is: 
+Bad : 6
+
+Continue y/n? y
+Skipping Menu
+Enter your choice: 6
+
+Enter name of movie: Glad
+Critical rating of the movie is: 
+Glad : 7
+Overall rating of the movie is: 
+Glad : 14
+
+Continue y/n? n
